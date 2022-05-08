@@ -9,7 +9,7 @@
 .button {
   width: 22.5vw;
   height: 42.5vh;
-  background: url(/src/img/wave.svg), #70abce;
+  background: url(../media/wave.svg), #70abce;
   background-repeat: repeat-x;
   background-size: auto 150%;
   background-position: 0 -180%;
